@@ -1,4 +1,3 @@
-package j00;
 
 import java.util.ArrayList;
 import java.util.List;
